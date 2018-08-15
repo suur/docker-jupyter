@@ -4,6 +4,7 @@ Docker image for the kitchen sink approach.
 
 * Anaconda3
 * OpenCV
+* Keras
 * PostgreSQL adapter (psycopg2)
 * AWS SDK (boto3)
 
